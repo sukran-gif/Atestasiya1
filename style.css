@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.left {
+    color: white;  
+    margin-top: -700px;
+    font-weight: 900;
+    margin-left: 20px;
+    font-size: 36px;
+}
+
+header {
+    display: flex;
+    justify-content: end;
+    color: white;
+    margin-top: -40px;
+    margin-right: 20px;
+}
+
+h4 {
+    margin-left: 40px;
+    font-size: 30px;
+}
+
+.main {
+    color: white;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-top: 20%;
+}
